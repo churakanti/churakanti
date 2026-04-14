@@ -1,4 +1,4 @@
-# Hi, I'm Siri Sri Churakanti 👋
+# Hi, I'm Siri Ch 👋
 
 MS Computer Science (Intelligent Systems) · Lawrence Technological University
 
