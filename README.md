@@ -12,4 +12,4 @@ MS Computer Science (Intelligent Systems) · Lawrence Technological University
 - 🌐 [Portfolio](https://churakanti.github.io)
 - 📄Optimizing Hyperparameters for Deep Learning Models Using Evolutionary Algorithms: Solving the Four-Class Intertwined Spiral Classification Problem
    [IEEE Paper](https://ieeexplore.ieee.org/document/11103665)
-- 💼 [LinkedIn](https://linkedin.com/in/siri-sri-churakanti-3487942b4/)
+
