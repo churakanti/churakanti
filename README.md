@@ -9,7 +9,6 @@ MS Computer Science (Intelligent Systems) · Lawrence Technological University
 🛂 3-year OPT work authorization (F-1 STEM eligible)
 
 ### 🔗 Links
-- 🌐 [Portfolio](https://churakanti.github.io)
 - 📄Optimizing Hyperparameters for Deep Learning Models Using Evolutionary Algorithms: Solving the Four-Class Intertwined Spiral Classification Problem
    [IEEE Paper](https://ieeexplore.ieee.org/document/11103665)
 
